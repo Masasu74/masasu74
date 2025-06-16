@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Developer building powerful SaaS products and business tools. <br>💻 Building with Next.js, TypeScript & Supabase at scale.<br> 🎓 Studied at African Leadership University, Rwanda. <br>🤝 Open for gigs — I build custom websites and systems that deliver results.
+🚀 Developer building powerful SaaS products and business tools. <br>💻 Building with Next.js, TypeScript & Supabase at scale.<br> 🎓 Studying Software Engineering  at African Leadership University, Rwanda. <br>🤝 Open for gigs — I build custom websites and systems that deliver results.
 
 
 ## 🌐 Socials:
